@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anushaTUe !
-- 👀 I’m interested in anything to do with computer science, engineering, maths, and AI.
+- 👀 I’m interested in anything to do with computer science, engineering, maths, natural sciences.
 - 🌱 I’m currently learning Applied Mathematics and Computer Science, with Honors in AI.
 - 💞️ I’m looking to collaborate on any projects that involve my interests.
 - 📫 How to reach me is to invite me to a project.
